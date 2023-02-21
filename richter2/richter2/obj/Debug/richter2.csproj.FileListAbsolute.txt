@@ -1,0 +1,24 @@
+D:\richter2\richter2\bin\Debug\richter2.exe.config
+D:\richter2\richter2\bin\Debug\richter2.exe
+D:\richter2\richter2\bin\Debug\richter2.pdb
+D:\richter2\richter2\obj\Debug\richter2.csproj.AssemblyReference.cache
+D:\richter2\richter2\obj\Debug\richter2.csproj.SuggestedBindingRedirects.cache
+D:\richter2\richter2\obj\Debug\richter2.Form1.resources
+D:\richter2\richter2\obj\Debug\richter2.Form2.resources
+D:\richter2\richter2\obj\Debug\richter2.Properties.Resources.resources
+D:\richter2\richter2\obj\Debug\richter2.csproj.GenerateResource.cache
+D:\richter2\richter2\obj\Debug\richter2.csproj.CoreCompileInputs.cache
+D:\richter2\richter2\obj\Debug\richter2.exe
+D:\richter2\richter2\obj\Debug\richter2.pdb
+C:\Users\pc user\Downloads\richter2\richter2\bin\Debug\richter2.exe.config
+C:\Users\pc user\Downloads\richter2\richter2\bin\Debug\richter2.exe
+C:\Users\pc user\Downloads\richter2\richter2\bin\Debug\richter2.pdb
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.csproj.AssemblyReference.cache
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.Form1.resources
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.Form2.resources
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.Properties.Resources.resources
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.csproj.GenerateResource.cache
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.csproj.CoreCompileInputs.cache
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.exe
+C:\Users\pc user\Downloads\richter2\richter2\obj\Debug\richter2.pdb
